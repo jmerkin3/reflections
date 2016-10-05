@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository you create a repository in you home directory. You need a repository to save commits so you can easily track changes in your project.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+The stain area is like a middle ground in which you can add different changes and combine them to make a commit from. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+You can use the staging area to make sure you only have one commit per logical change by looking at your staging area, being able to see what changes have been made, so you can choose when to commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches would be helpful if you want to make a change to a project but also keep the original version, or if you wanted to keep parallel versions with different features.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help you visualize the branch structure because it is really easy to see which branches resulted from which parents and very easy to see how two branches will merge.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
+

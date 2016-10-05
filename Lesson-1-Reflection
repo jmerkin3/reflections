@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Using diff helped to see the variations across two versions of a file because the system automatically picked apart the lines of code that had changes made to them, making it easier for the user to tell which one caused the problem.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Instead of searching through thousands of lines of code each time, programmers could use diff (or another computer command) to help them see what went wrong in their code every time they encounter a problem in their project, to save them valuable time and effort.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Not sure about Git as we did not get there, but I can assume that it is almost always beneficial to have an automatically saved version of your file, like Google Docs does, because you do not have to remember to save and it is easy to see what is changed across different drafts of a document.  I have trouble thinking of any real downside to an auto-save feature, but I am sure there are some times when it is not beneficial. (One downside to an auto save feature is that there are more versions to sift through if you wanted to find where in your code you messed up using diff.)
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Not sure what a commit is, but I would guess that it makes it easier to have all the files together rather than separate…? 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log and git diff? Not sure at all about this one, sorry.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control there is no real down side to making a possibly negative change, and it can sometimes result in a large positive.  However, even without version control, you could still just make a copy and then try the new change in the copy.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To make the world a better place.
+
